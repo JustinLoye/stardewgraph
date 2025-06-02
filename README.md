@@ -1,4 +1,4 @@
-# StardewKG: a knowledge graph for Stardew Valley
+# StardewGraph: a knowledge graph for Stardew Valley
 
 This project use Neo4j to represent the [stardew valley wiki](https://wiki.stardewvalley.net/Stardew_Valley_Wiki)
 
