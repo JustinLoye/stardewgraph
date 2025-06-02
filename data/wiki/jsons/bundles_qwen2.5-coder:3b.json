@@ -1,0 +1,293 @@
+[
+  {
+    "id": "Spring Foraging Bundle",
+    "bundle": [
+      "Wild Horseradish",
+      "Daffodil",
+      "Leek",
+      "Dandelion"
+    ],
+    "reward": "Spring Seeds (30)"
+  },
+  {
+    "id": "Summer Foraging Bundle",
+    "bundle": [
+      "Grape",
+      "Spice Berry",
+      "Sweet Pea"
+    ],
+    "reward": "Summer Seeds (30)"
+  },
+  {
+    "id": "Fall Foraging Bundle",
+    "bundle": [
+      "Common Mushroom",
+      "Wild Plum",
+      "Hazelnut",
+      "Blackberry"
+    ],
+    "reward": "Fall Seeds (30)"
+  },
+  {
+    "id": "Winter Foraging Bundle",
+    "bundle": [
+      "Winter Root",
+      "Crystal Fruit",
+      "Snow Yam",
+      "Crocus"
+    ],
+    "reward": "Winter Seeds (30)"
+  },
+  {
+    "id": "Construction Bundle",
+    "bundle": [
+      "Wood (99)",
+      "Wood (99)",
+      "Stone (99)",
+      "Hardwood (10)"
+    ],
+    "reward": "Charcoal Kiln (1)"
+  },
+  {
+    "id": "Exotic Foraging Bundle",
+    "bundle": [
+      "Coconut",
+      "Cactus Fruit",
+      "Cave Carrot",
+      "Red Mushroom",
+      "Purple Mushroom",
+      "Maple Syrup",
+      "Oak Resin",
+      "Pine Tar",
+      "Morel"
+    ],
+    "reward": "Autumn's Bounty (5)"
+  },
+  {
+    "id": "Spring Crops Bundle",
+    "bundle": [
+      "Parsnip",
+      "Green Bean",
+      "Cauliflower",
+      "Potato"
+    ],
+    "reward": "Speed-Gro (20)"
+  },
+  {
+    "id": "Summer Crops Bundle",
+    "bundle": [
+      "Tomato",
+      "Hot Pepper",
+      "Blueberry",
+      "Melon"
+    ],
+    "reward": "Quality Sprinkler (1)"
+  },
+  {
+    "id": "Fall Crops Bundle",
+    "bundle": [
+      "Corn",
+      "Eggplant",
+      "Pumpkin",
+      "Yam"
+    ],
+    "reward": "Bee House (1)"
+  },
+  {
+    "id": "Quality Crops Bundle",
+    "bundle": [
+      "Parsnip (Gold)",
+      "Melon (Gold)",
+      "Pumpkin (Gold)",
+      "Corn (Gold)"
+    ],
+    "reward": "Preserves Jar (1)"
+  },
+  {
+    "id": "Animal Bundle",
+    "bundle": [
+      "Large Milk",
+      "Large Brown Egg (Brown)",
+      "Large Egg (White)",
+      "Large Goat Milk",
+      "Wool",
+      "Duck Egg"
+    ],
+    "reward": "Cheese Press (1)"
+  },
+  {
+    "id": "Artisan Bundle",
+    "bundle": [
+      "Truffle Oil",
+      "Cloth",
+      "Goat Cheese",
+      "Cheese",
+      "Honey",
+      "Jelly",
+      "Apple",
+      "Apricot",
+      "Orange",
+      "Peach",
+      "Pomegranate",
+      "Cherry"
+    ],
+    "reward": "Keg (1)"
+  },
+  {
+    "id": "River Fish Bundle",
+    "bundle": [
+      "Sunfish",
+      "Catfish",
+      "Shad",
+      "Tiger Trout"
+    ],
+    "reward": "Deluxe Bait (30)"
+  },
+  {
+    "id": "Lake Fish Bundle",
+    "bundle": [
+      "Largemouth Bass",
+      "Carp",
+      "Bullhead",
+      "Sturgeon"
+    ],
+    "reward": "Dressed Spinner (1)"
+  },
+  {
+    "id": "Ocean Fish Bundle",
+    "bundle": [
+      "Sardine",
+      "Tuna",
+      "Red Snapper",
+      "Tilapia"
+    ],
+    "reward": "Warp Totem Beach (5)"
+  },
+  {
+    "id": "Night Fishing Bundle",
+    "bundle": [
+      "Walleye",
+      "Bream",
+      "Eel"
+    ],
+    "reward": "Glow Ring (1)"
+  },
+  {
+    "id": "Crab Pot Bundle",
+    "bundle": [
+      "Lobster",
+      "Crayfish",
+      "Crab",
+      "Cockle",
+      "Mussel",
+      "Shrimp",
+      "Snail",
+      "Periwinkle",
+      "Oyster",
+      "Clam"
+    ],
+    "reward": "Crab Pot (3)"
+  },
+  {
+    "id": "Specialty Fish Bundle",
+    "bundle": [
+      "Pufferfish",
+      "Ghostfish",
+      "Sandfish",
+      "Woodskip"
+    ],
+    "reward": "Dish O' The Sea (5)"
+  },
+  {
+    "id": "Blacksmiths Bundle",
+    "bundle": [
+      "Copper Bar",
+      "Iron Bar",
+      "Gold Bar"
+    ],
+    "reward": "Furnace (1)"
+  },
+  {
+    "id": "Geologists Bundle",
+    "bundle": [
+      "Quartz",
+      "Earth Crystal",
+      "Frozen Tear",
+      "Fire Quartz"
+    ],
+    "reward": "Omni Geode (5)"
+  },
+  {
+    "id": "Adventurers Bundle",
+    "bundle": [
+      "Slime",
+      "Bat Wing",
+      "Solar Essence",
+      "Void Essence"
+    ],
+    "reward": "Small Magnet Ring (1)"
+  },
+  {
+    "id": "Chefs Bundle",
+    "bundle": [
+      "Maple Syrup",
+      "Fiddlehead Fern",
+      "Truffle",
+      "Poppy",
+      "Maki Roll",
+      "Fried Egg"
+    ],
+    "reward": "Pink Cake (3)"
+  },
+  {
+    "id": "Dye Bundle",
+    "bundle": [
+      "Red Mushroom",
+      "Sea Urchin",
+      "Sunflower",
+      "Duck Feather",
+      "Aquamarine",
+      "Red Cabbage"
+    ],
+    "reward": "Seed Maker (1)"
+  },
+  {
+    "id": "Field Research Bundle",
+    "bundle": [
+      "Purple Mushroom",
+      "Nautilus Shell",
+      "Chub",
+      "Frozen Geode"
+    ],
+    "reward": "Recycling Machine (1)"
+  },
+  {
+    "id": "Fodder Bundle",
+    "bundle": [
+      "Wheat",
+      "Hay",
+      "Apple"
+    ],
+    "reward": "Heater (1)"
+  },
+  {
+    "id": "Enchanters Bundle",
+    "bundle": [
+      "Oak Resin",
+      "Wine",
+      "Rabbit's Foot",
+      "Pomegranate"
+    ],
+    "reward": "Gold Bar (5)"
+  },
+  {
+    "id": "The Missing Bundle",
+    "bundle": [
+      "Dinosaur Mayonnaise",
+      "Prismatic Shard",
+      "Void Salmon",
+      "Caviar"
+    ],
+    "reward": ""
+  }
+]

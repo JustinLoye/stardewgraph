@@ -1,0 +1,4 @@
+SKILLS = ["Farming", "Mining", "Foraging", "Fishing", "Combat"]
+SEASONS = ["Spring", "Summer", "Fall", "Winter"]
+VILLAGERS = ['Abigail', 'Sebastian', 'Sam', 'Penny', 'Shane', 'Elliott', 'Alex', 'Harvey', 'Maru', 'Haley', 'Leah', 'Emily', 'Lewis', 'Jodi', 'Willy', 'Leo', 'Krobus', 'Demetrius', 'Caroline', 'Linus', 'Evelyn', 'Clint', 'Pam', 'Robin', 'Marnie',
+             'Pierre', 'Gus', 'Kent', 'Vincent', 'Jas', 'George', 'Wizard', 'Dwarf', 'Sandy', 'Mr._qi', 'Grandpa', 'Professor_snail', 'Marlon', 'Junimos', 'Fizz', 'Gunther', 'Birdie', 'Old_mariner', 'Henchman', 'Gil', 'Bouncer', 'Morris', 'Governor']

@@ -1,0 +1,15 @@
+# From .gitignore
+.venv/
+.env
+__pycache__/
+*.log
+
+# Docker-specific extras
+.git/
+.dockerignore
+.gitignore
+*.md
+tests/
+docker-compose.yaml
+Dockerfile
+
