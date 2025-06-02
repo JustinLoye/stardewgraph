@@ -1,6 +1,8 @@
 # StardewGraph: a knowledge graph for Stardew Valley
 
-This project use Neo4j to represent the [stardew valley wiki](https://wiki.stardewvalley.net/Stardew_Valley_Wiki)
+This project uses Neo4j to represent the [stardew valley wiki](https://wiki.stardewvalley.net/Stardew_Valley_Wiki)
+
+![luck](data/images/luck.png)
 
 ## Prerequisites
 
@@ -61,7 +63,7 @@ Here are some possible improvements:
   - Calendar
   - Shops
   - Quests
-  - Villager's schedule
+  - Villagers' schedule
   - ...
 
 ## License
